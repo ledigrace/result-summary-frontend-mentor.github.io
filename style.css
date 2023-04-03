@@ -1,0 +1,108 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+.result-sum{
+    margin-top: 10%;
+}
+.result{
+    width: 50%;
+    height: 80%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 7%;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+.score{
+    background: rgb(120,87,255);
+    background: linear-gradient(180deg, rgba(120,87,255,1) 0%, rgba(46,43,233,1) 35%);
+    padding: 5%;
+    border-radius: 7%;
+}
+.score h4{
+    font-size: 18px;
+    color: #ffffffa6;
+}
+.scoreof{
+    padding:6%;
+    background: hsla(256, 72%, 46%, 1);
+    background: linear-gradient(180deg,  hsla(256, 72%, 46%, 1) 100%,hsla(241, 72%, 46%, 0) 80%);
+    width: 50%;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.scoreof .sevensix{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+}
+.scoreof .ofhundred{
+    color: #ffffffa6;
+    font-size: 16px;
+}
+.result-sum h3{
+    color: #fff;
+    font-size: 24px;
+}
+.result-sum .ofscored{
+    color: #ffffffa6;
+    font-size: 16px;
+    margin: 10px 30px;
+}
+.summary{
+    padding: 8%;
+}
+.summary h3{
+    color: hsl(224, 30%, 27%);
+    font-size: 20px;
+    padding: 0 6%;
+}
+.summary ul li{
+    list-style: none;
+}
+.listone{
+    padding: 3%;
+    background-color: hsl(0deg 100% 67% / 12%);
+    color: #ff5757;
+    border-radius: 2%;
+}
+.listone span{
+    color: #000;
+}
+.listtwo{
+    padding: 3%;
+    background-color: hsla(39, 100%, 56%, 0.13);
+    color: #ffb01f;
+    border-radius: 2%;
+}
+.listtwo span{
+    color: #000;
+}
+.listthree{
+    padding: 3%;
+    background-color: hsla(166, 100%, 37%, 0.178);
+    color: #00bd91;
+    border-radius: 2%;
+}
+.listthree span{
+    color: #000;
+}
+.listfour{
+    padding: 3%;
+    background-color: hsla(234, 85%, 45%, 0.199);
+    color: #1125d4;
+    border-radius: 2%;
+}
+.listfour span{
+    color: #000;
+}
+.continue{
+    text-align: center;
+    padding: 3%;
+    background-color: hsl(224, 30%, 27%);
+    border-radius: 50px;
+    margin: 0 1% 0 10%;
+}
+.continue a{
+    text-decoration: none;
+    color: #fff;
+    
+}
