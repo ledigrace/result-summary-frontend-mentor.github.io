@@ -7,14 +7,14 @@
     width: 50%;
     height: 80%;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    border-radius: 7%;
+    border-radius: 27px;
     font-family: 'Hanken Grotesk', sans-serif;
 }
 .score{
     background: rgb(120,87,255);
     background: linear-gradient(180deg, rgba(120,87,255,1) 0%, rgba(46,43,233,1) 35%);
     padding: 5%;
-    border-radius: 7%;
+    border-radius: 27px;
 }
 .score h4{
     font-size: 18px;
@@ -25,7 +25,7 @@
     background: hsla(256, 72%, 46%, 1);
     background: linear-gradient(180deg,  hsla(256, 72%, 46%, 1) 100%,hsla(241, 72%, 46%, 0) 80%);
     width: 50%;
-    border-radius: 50%;
+    border-radius: 75px;
     margin: 0 auto;
 }
 .scoreof .sevensix{
@@ -61,7 +61,7 @@
     padding: 3%;
     background-color: hsl(0deg 100% 67% / 12%);
     color: #ff5757;
-    border-radius: 2%;
+    border-radius: 10px;
 }
 .listone span{
     color: #000;
@@ -70,7 +70,7 @@
     padding: 3%;
     background-color: hsla(39, 100%, 56%, 0.13);
     color: #ffb01f;
-    border-radius: 2%;
+    border-radius: 10px;
 }
 .listtwo span{
     color: #000;
@@ -79,7 +79,7 @@
     padding: 3%;
     background-color: hsla(166, 100%, 37%, 0.178);
     color: #00bd91;
-    border-radius: 2%;
+    border-radius: 10px;
 }
 .listthree span{
     color: #000;
@@ -88,7 +88,7 @@
     padding: 3%;
     background-color: hsla(234, 85%, 45%, 0.199);
     color: #1125d4;
-    border-radius: 2%;
+    border-radius: 10px;
 }
 .listfour span{
     color: #000;
